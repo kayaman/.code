@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cursor-skills": {
+      "command": "uv",
+      "args": [
+        "run",
+        "mcp/skills_mcp.py",
+        "--skills-dir",
+        ".claude/skills"
+      ]
+    }
+  }
+}

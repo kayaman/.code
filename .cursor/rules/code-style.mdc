@@ -1,0 +1,10 @@
+---
+description: "General coding standards"
+alwaysApply: true
+---
+
+# Code Style
+
+Follow the project standards defined below.
+@common/standards.md
+
